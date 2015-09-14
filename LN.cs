@@ -5694,9 +5694,9 @@ public class LN
 			case 2768:
 				return "Drill Containment Unit";
 			case 2769:
-				return "Cosmic Car Key";
+				return "코스믹 카 열쇠";
 			case 2770:
-				return "Mothron Wings";
+				return "모스론 날개";
 			case 2771:
 				return "두뇌 분쇄기";
 			case 2772:
@@ -5714,11 +5714,11 @@ public class LN
 			case 2778:
 				return "성운 전기톱";
 			case 2779:
-				return "Nebula Drill";
+				return "성운 드릴";
 			case 2780:
-				return "Nebula Hammer";
+				return "성운 망치r";
 			case 2781:
-				return "Nebula Pickaxe";
+				return "성운 곡괭이";
 			case 2782:
 				return "Solar Flare Axe";
 			case 2783:
@@ -5734,17 +5734,17 @@ public class LN
 			case 2788:
 				return "Honeyfall Wall";
 			case 2789:
-				return "Chlorophyte Brick Wall";
+				return "클로로파이트 벽돌 벽";
 			case 2790:
-				return "Crimtane Brick Wall";
+				return "크림테인 벽돌 벽";
 			case 2791:
-				return "Shroomite Plating Wall";
+				return "쉬루마이트 판 벽";
 			case 2792:
-				return "녹조류 벽돌";
+				return "클로로파이트 벽돌";
 			case 2793:
-				return "Crimtane Brick";
+				return "크림테인 벽돌";
 			case 2794:
-				return "Shroomite Plating";
+				return "쉬루마이트 판";
 			case 2795:
 				return "레이저 기관총";
 			case 2796:
@@ -5754,7 +5754,7 @@ public class LN
 			case 2798:
 				return "레이저 드릴";
 			case 2799:
-				return "Mechanical Ruler";
+				return "기술공의 자";
 			case 2800:
 				return "반중력 갈고리";
 			case 2801:
@@ -5762,15 +5762,15 @@ public class LN
 			case 2802:
 				return "해의 가면";
 			case 2803:
-				return "Martian Costume Mask";
+				return "화성인 의상 마스크";
 			case 2804:
-				return "Martian Costume Shirt";
+				return "화성인 의상 셔츠";
 			case 2805:
-				return "Martian Costume Pants";
+				return "화성인 의상 바지";
 			case 2806:
-				return "Martian Uniform Helmet";
+				return "화성인 제복 헬멧";
 			case 2807:
-				return "Martian Uniform Torso";
+				return "화성인 제복 상의";
 			case 2808:
 				return "Martian Uniform Pants";
 			case 2809:
